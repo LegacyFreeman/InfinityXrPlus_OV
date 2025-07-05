@@ -59,6 +59,7 @@
 
 ## 🛠 Installation
 
-1. Install [KernelSU](https://kernelsu.org/) or [Magisk](https://github.com/topjohnwu/Magisk1 Install [KernelSU1 Install [KernelSU1 Install [1. Install [1. Install [1. Install [1. Install [ksunext] (https://github.com/kernelsu-next/kernelsu-next/releases)
+1. Install [ksunext] (https://github.com/kernelsu-next/kernelsu-next/releases)
 2. Alternative [Kernelsu] (https://kernelsu.org/) or [magisk] (https://github.com/topjohnwu/magisk)
-3. Install the module
+3. Install the module through `.zip` or` update.json`
+4. Reload the device
